@@ -78,7 +78,7 @@ def recortar_e_ampliar_circuito(self, imagem_pil):
 ```
 
 ### Adaptação de Cores (Modo Escuro / Claro)
-* **Nota importante:** A adaptação de cores para o modo escuro e claro **não foi feita pela IA**, tendo sido implementada manualmente na lógica de alternância de temas e inversão de tons das imagens.
+* **Nota importante:** A adaptação de cores para o modo escuro e claro **não foi feita pela IA**, tendo sido implementada manualmente na lógica junto da estrutura do customTkinter graças ao video do youtube.
 
 ---
 
